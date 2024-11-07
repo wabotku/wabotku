@@ -4,8 +4,8 @@ My education background is computer engineering but I really enjoy software deve
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT. Aku Cinta Indonesia , ViuIT and JogjaKita Project
-- 🌱 I’m currently learning Node.JS, PHP, Golang, and C#
+- 🔭 I’m currently working on PT. Salam Pacific Indonesia Lines ( SPIL )
+- 🌱 I’m currently learning Node.JS, PHP, Golang, and Java
 - 👯 I’m looking to collaborate on more projects that using SCRUM in order to get more familiar to work in a team!
 - 📫 How to reach me: walidshr8@gmail.com
 
